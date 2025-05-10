@@ -38,4 +38,4 @@ Using the **CIFAR-10 dataset** (60k 32×32 RGB images across 10 classes), we eva
 ## 📂 Repository Structure 
 - experiment implementation/ # Colab implementation (.ipynb)
 - report/ # Final paper (LaTeX/PDF)
-- README.md
+- Project overview.md
